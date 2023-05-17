@@ -1,9 +1,3 @@
-#%%
-
-"""
-\\\\\ Vier gewinnt /////
-
-DAISY WS22/23
 
 import numpy as np
 import random
